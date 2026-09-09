@@ -1,0 +1,5 @@
+# Generated locally by mlp_from_scratch.ipynb -- self-contained per the A2 spec, so these
+# regenerate on any machine (or on Colab) without being tracked. Nothing here is authored content.
+data_mnist/
+*.npz
+mlp_from_scratch.executed.ipynb
